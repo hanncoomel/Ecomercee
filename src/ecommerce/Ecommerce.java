@@ -10,6 +10,7 @@ package ecommerce;
  */
 public class Ecommerce {
     
+    //product name and price
     static String[] productNames = { "Wireless Mouse" , "Bluetooth Speaker" , "Smartphone Stand" , "Portable Charger" };
     static double [] prices = { 120.00 , 350.00 , 200.00 , 150.00 };
     
